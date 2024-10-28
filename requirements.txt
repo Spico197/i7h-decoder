@@ -1,0 +1,5 @@
+nltk
+tqdm
+torch
+transformers
+protobuf
